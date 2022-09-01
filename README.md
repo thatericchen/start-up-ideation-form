@@ -1,4 +1,4 @@
-# startUpIdeationForm
+# Start-Up Ideation Form
 CS 1331 JavaFX Project
 Version Test 1.0
 
