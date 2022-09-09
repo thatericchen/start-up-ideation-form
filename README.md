@@ -29,7 +29,7 @@ These are the current problems being considered for improvement or addition to t
 * Responsive UI
 
 ## Issues and Discussions
-Please feel free to send bugs and issues in the Issues tab. If you have GUI suggestions or any other suggestions, please add them in the Discussions tab.
+Please feel free to send bugs and issues in the Issues tab. If you have GUI suggestions or any other suggestions, please email them to me.
 
 ## Version History
 
