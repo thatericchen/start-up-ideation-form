@@ -1,6 +1,6 @@
 # Start-Up Ideation Form - CS 1331 Project
 
-![front-page]
+<img align="center" width="100" height="100" src="(https://i.imgur.com/uuBDE7V.png)">
 
 ## Description
 A form-based GUI where users store start-up business proposals. Organizes inputted ideas and sorts then in order of start-up business potential based on target market, problem urgency, and existing competitors.
