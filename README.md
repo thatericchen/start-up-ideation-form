@@ -9,6 +9,7 @@ This project was completed as part of Georgia Tech's CS 1331 (Object-Oriented Pr
 
 ### Dependencies
 
+* Java SDK 11
 * JavaFX
 
 ### Installation and Execution
