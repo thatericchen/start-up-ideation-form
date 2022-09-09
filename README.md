@@ -59,4 +59,4 @@ Inspiration, code snippets, etc.
 * [zenorocha](https://gist.github.com/zenorocha/4526327)
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 
-[front-page]: https://i.imgur.com/9xuwtCE.png
+[front-page]: https://i.imgur.com/uuBDE7V.png
