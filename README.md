@@ -19,16 +19,22 @@ This project was completed as part of Georgia Tech's CS 1331 (Object-Oriented Pr
 * Add JavaFX configuration to StarterUpper.java
 * Run!
 
+## Problems
+
+
+### Issues and Discussions
+Please feel free to send bugs and issues in the Issues tab. If you have GUI suggestions or any other suggestions, please add them in the Discussions tab.
+
 ## Version History
 
 * 1.0 - Initial Release
 
 ## Acknowledgment
-Eric Chen<br/>
-[LinkedIn](https://www.linkedin.com/in/ericchenatl/)<br/>
-Email: 
+[My LinkedIn](https://www.linkedin.com/in/ericchenatl/)<br/>
+Email me at
 ```
 echen7266@gmail.com
 ```
+if you have any additional questions or concerns.
 
 [front-page]: https://i.imgur.com/uuBDE7V.png
