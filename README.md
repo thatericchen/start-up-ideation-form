@@ -17,7 +17,7 @@ This project was completed as part of Georgia Tech's CS 1331 (Object-Oriented Pr
 * Create new project in Java SDK 11
 * Download src folder into project
 * Add JavaFX configuration to StarterUpper.java
-* Run!
+* Run
 
 ## Problems
 These are the current problems being considered for improvement or addition to the program. The following issues/solutions are in no particular order.
