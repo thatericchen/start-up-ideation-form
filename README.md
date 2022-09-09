@@ -3,7 +3,7 @@
 ![front-page]
 
 ## Description
-A form-based GUI where users store start-up business proposals. Organizes inputted ideas and sorts then in order of start-up business potential based on target market, problem urgency, and existing competitors.
+This project was completed as part of Georgia Tech's CS 1331 (Object-Oriented Programming) course. It is a form-based GUI where users store start-up business proposals. Its main functionalities include organizing inputted ideas and sorting them in order of start-up business potential based on target market, problem urgency, and existing competitors.
 
 ## Getting Started
 
@@ -24,6 +24,7 @@ A form-based GUI where users store start-up business proposals. Organizes inputt
     * Initial Release
 
 ## Acknowledgments
+Eric Chen
 [My LinkedIn](https://www.linkedin.com/in/ericchenatl/)
 [Email](echen7266@gmail.com)
 
