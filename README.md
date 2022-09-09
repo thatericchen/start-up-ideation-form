@@ -9,54 +9,23 @@ A form-based GUI where users store start-up business proposals. Organizes inputt
 
 ### Dependencies
 
-* Java, JavaFX
+* JavaFX
 
-### Installing
+### Installation and Execution
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+* Create new project in Java SDK 11
+* Download src folder into project
+* Add JavaFX configuration to StarterUpper.java
+* Run!
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
+* 1.0
     * Initial Release
 
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
 ## Acknowledgments
+[My LinkedIn](https://www.linkedin.com/in/ericchenatl/)
+[Email](echen7266@gmail.com)
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 
 [front-page]: https://i.imgur.com/uuBDE7V.png
