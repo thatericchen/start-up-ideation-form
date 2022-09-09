@@ -9,7 +9,7 @@ A form-based GUI where users store start-up business proposals. Organizes inputt
 
 ### Dependencies
 
-* JavaFX
+* Java, JavaFX
 
 ### Installing
 
