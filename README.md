@@ -21,8 +21,7 @@ This project was completed as part of Georgia Tech's CS 1331 (Object-Oriented Pr
 
 ## Version History
 
-* 1.0
-    * Initial Release
+* 1.0 - Initial Release
 
 ## Acknowledgments
 Eric Chen
