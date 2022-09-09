@@ -35,7 +35,7 @@ Please feel free to send bugs and issues in the Issues tab. If you have GUI sugg
 
 * 1.0 - Initial Release
 
-## Acknowledgment
+## Acknowledgement
 [My LinkedIn](https://www.linkedin.com/in/ericchenatl/)<br/>
 Email me at
 ```
