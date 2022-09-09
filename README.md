@@ -20,9 +20,15 @@ This project was completed as part of Georgia Tech's CS 1331 (Object-Oriented Pr
 * Run!
 
 ## Problems
+These are the current problems being considered for improvement or addition to the program. The following issues/solutions are in no particular order.
+* Adding additional prompts
+* Add a GUI Control that displays problems on the scene as user submits them
+* Implement a way to edit specific ideas
+* Add a field that evaluates a chosen idea
+* Audio/SFX when an idea is added
+* Responsive UI
 
-
-### Issues and Discussions
+## Issues and Discussions
 Please feel free to send bugs and issues in the Issues tab. If you have GUI suggestions or any other suggestions, please add them in the Discussions tab.
 
 ## Version History
