@@ -26,8 +26,7 @@ This project was completed as part of Georgia Tech's CS 1331 (Object-Oriented Pr
 ## Acknowledgment
 Eric Chen<br/>
 [My LinkedIn](https://www.linkedin.com/in/ericchenatl/)<br/>
-Or email me at
-echen7266@gmail.com
+Email: echen7266@gmail.com
 
 
 [front-page]: https://i.imgur.com/uuBDE7V.png
