@@ -2,7 +2,6 @@
 
 ![front-page]
 
-## Description
 This project was completed as part of Georgia Tech's CS 1331 (Object-Oriented Programming) course. It is a form-based GUI where users store start-up business proposals. Its main functionalities include organizing inputted ideas and sorting them in order of start-up business potential based on target market, problem urgency, and existing competitors.
 
 ## Problems
