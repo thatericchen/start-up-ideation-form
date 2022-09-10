@@ -27,6 +27,6 @@ Email me at
 ```
 echen7266@gmail.com
 ```
-if you have any additional questions or concerns.
+if you would like to use the code.
 
 [front-page]: https://i.imgur.com/uuBDE7V.png
