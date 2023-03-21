@@ -1,8 +1,8 @@
-# Start-Up Ideation Form - CS 1331 Project
+# Start-Up Ideation Form
 
 ![front-page]
 
-This project was completed as part of Georgia Tech's CS 1331 (Object-Oriented Programming) course. It is a form-based GUI where users store start-up business proposals. Its main functionalities include organizing inputted ideas and sorting them in order of start-up business potential based on target market, problem urgency, and existing competitors.
+The Start-Up Ideation Form is a form-based GUI where users store start-up business proposals. Its main functionalities include organizing inputted ideas and sorting them in order of start-up business potential based on target market, problem urgency, and existing competitors. This program was an introductory project to app development.
 
 ## Problems
 These are the current problems being considered for improvement or addition to the program. The following issues/solutions are in no particular order.
