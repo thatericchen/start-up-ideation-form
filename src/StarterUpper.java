@@ -1,4 +1,3 @@
-//I worked on the homework assignment alone, using only course materials.
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
