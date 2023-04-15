@@ -4,7 +4,7 @@ import java.io.PrintWriter;
 import java.util.List;
 
 /**
- * @author
+ * @author Eric Chen
  * @version 1.0
  * This class contains methods to facilitate saving a List of StartUpIdea's to a file
  */
