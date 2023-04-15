@@ -1,5 +1,5 @@
 /**
- * @author
+ * @author Eric Chen
  * @version 1.0
  * This class is a wrapper over different traits of a Start-up Idea
  */
